@@ -4,11 +4,9 @@ layout: page
 title: About me
 -->
 ---
-<p align="center">
-  <b>## Shikha Bordia</b><br>
-   
-   
-</p>
+
+<h4 align="center">Shikha Bordia 1</h4>
+
 #### Professional Background
 
 
