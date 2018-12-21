@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Professional Background
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+I’m a second-year Master student at [New York University’s](http://www.nyu.edu/) [Courant Institute of Mathmatical Sciences](https://cs.nyu.edu/home/index.html). I am a part of [ML^2 Group](https://wp.nyu.edu/ml2/) at [CILVR Lab](https://wp.nyu.edu/cilvr/). My research interests are machine learning and natural language processing. 
 
-### my history
+I graduated from [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in) in 2011. I started my career working in the Global Analytics Group at Deutsche Bank modeling Structured Finance products.  Over the years, I have worked across multiple industries like retail, eCommerce, banking and telecom. I have provided consulting to multiple clients (Fortune 100) for business intelligence and predictive analytics projects. I am passionate about building data-driven products and scalable frameworks.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+You can either connect with me on [Linkedin](https://www.linkedin.com/in/shikhabordia/) or drop me an email on bordiashikha06@gmail.com. Happier to grab a coffee in-person and exchange notes about the universe! 
+
+
+
