@@ -24,7 +24,7 @@ description: Random Walk
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   
   Random Walk: "blog"
  # Projects: "projects"
@@ -78,7 +78,7 @@ share-links-active:
   linkedin: true
 
 
-url-pretty: "shikhabordia.com"
+url-pretty: "www.shikhabordia.com"
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 #url-pretty: "MyWebsite.com" # eg. "deanattali.com/beautiful-jekyll"
