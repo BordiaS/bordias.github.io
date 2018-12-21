@@ -5,7 +5,7 @@ title: About me
 -->
 ---
 
-<h2 align="center">Shikha Bordia</h2>
+<h1 align="center">Shikha Bordia</h1>
 
 ### Professional Background
 

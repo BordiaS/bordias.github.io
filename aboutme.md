@@ -1,8 +1,11 @@
 ---
 layout: page
+<!---
 title: About me
-
+-->
 ---
+
+<h1 align="center">Shikha Bordia</h1>
 
 ### Professional Background
 
