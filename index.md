@@ -5,9 +5,9 @@ title: About me
 -->
 ---
 
-<h4 align="center">Shikha Bordia 1</h4>
+<h2 align="center">Shikha Bordia</h4>
 
-#### Professional Background
+### Professional Background
 
 
 I’m a second-year Master student at [New York University’s](http://www.nyu.edu/) [Courant Institute of Mathmatical Sciences](https://cs.nyu.edu/home/index.html). I am a part of [ML^2 Group](https://wp.nyu.edu/ml2/) at [CILVR Lab](https://wp.nyu.edu/cilvr/). My research interests are machine learning and natural language processing. 
