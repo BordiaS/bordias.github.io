@@ -18,7 +18,7 @@ You can either connect with me on [Linkedin](https://www.linkedin.com/in/shikhab
 
 
 ### Publications/Projects
-#### Identifying and Reducing Gender Bias in Word-Level Language Models [[paper](https://aclweb.org/anthology/papers/N/N19/N19-3002/)][[slides](https://www.shikhabordia.com/gender_bias_slides.pdf)][[poster](https://www.shikhabordia.com/poster.pdf)]
+#### Identifying and Reducing Gender Bias in Word-Level Language Models [[paper](https://aclweb.org/anthology/papers/N/N19/N19-3002/)][[slides](https://bordias.github.io/gender_bias_slides.pdf)][[poster](https://bordias.github.io/poster.pdf)]
 Many corpora exhibit problematic bias, which can  get propagated  or  amplified  in  the  models trained on such data. In this study we (i) propose a gender bias score; (ii) measure bias in a text corpus and the text generated from an embedding encoder based recurrent  neural  network language model trained on the text corpus; (iii) propose a regularization loss term for the language model that minimizes the projection of encoder trained embeddings onto an embedding subspace that encodes gender; (iv) finally, evaluate efficacy of our proposed method on reducing gender bias. This regularization method is found to be effective in reducing gender bias upto  an  optimal weight assigned to the loss term, beyond  which the model becomes unstable as the perplexity gets compromised. This study is replicated on three training corpora--Penn Treebank,  WikiText-2, and CNN/DailyMail--resulting in similar conclusions.
 
 #### On Measuring Social Biases in Sentence Encoders[[paper](https://aclweb.org/anthology/papers/N/N19/N19-1063/)]

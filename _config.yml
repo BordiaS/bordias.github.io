@@ -30,7 +30,7 @@ navbar-links:
  # Projects: "projects"
 
   
-  Home: "http://shikhabordia.com"
+  Home: "https://bordias.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -78,7 +78,7 @@ share-links-active:
   linkedin: true
 
 
-url-pretty: "www.shikhabordia.com"
+url-pretty: "https://bordias.github.io"
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 #url-pretty: "MyWebsite.com" # eg. "deanattali.com/beautiful-jekyll"
