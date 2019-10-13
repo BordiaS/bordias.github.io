@@ -8,17 +8,10 @@ title: About me
 <h1 align="center">Shikha Bordia</h1>
 
 ### Professional Background
-
-
-I’m a second-year Master student at [New York University’s](http://www.nyu.edu/) [Courant Institute of Mathmatical Sciences](https://cs.nyu.edu/home/index.html). I am a part of [ML^2 Group](https://wp.nyu.edu/ml2/) at [CILVR Lab](https://wp.nyu.edu/cilvr/). My research interests are machine learning and natural language processing. 
-
-I graduated from [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in) in 2011. I started my career working in the Global Analytics Group at Deutsche Bank modeling Structured Finance products.  Over the years, I have worked across multiple industries like retail, eCommerce, banking and telecom. I have provided consulting to multiple clients (Fortune 100) for business intelligence and predictive analytics projects. I am passionate about building data-driven products and scalable frameworks.
-
-You can either connect with me on [Linkedin](https://www.linkedin.com/in/shikhabordia/) or drop me an email on bordiashikha06@gmail.com. Happier to grab a coffee in-person and exchange notes about the universe! 
-
+I am a NLP Research Engineer at Verisk Analytics. Previously, I completed Master's in Computer Science from [New York University’s](http://www.nyu.edu/) [Courant Institute of Mathmatical Sciences](https://cs.nyu.edu/home/index.html). I was advised by Prof. Samuel R.Bowman. I was also part of [ML^2 Group](https://wp.nyu.edu/ml2/) at [CILVR Lab](https://wp.nyu.edu/cilvr/).  Broadly, my research interests are machine learning and natural language processing. 
 
 ### Publications/Projects
-
+#### Investigating BERT’s Knowledge of Language:Five Analysis Methods with NPIs [[paper](https://arxiv.org/pdf/1909.02597.pdf)]
 Though state-of-the-art sentence representation models can perform tasks requiring significant knowledge of grammar, it is an open question how best to evaluate their grammatical knowledge. We explore five experimental methods inspired by prior work evaluating pretrained sentence representation models. We use a single linguistic phenomenon, negative polarity item (NPI) licensing in English, as a case study for our experiments. NPIs like any are grammatical only if they appear in a licensing environment like negation (Sue doesn’t have any cats vs. *Sue has any cats). This phenomenon is challenging because of
 the variety of NPI licensing environments that exist. We introduce an artificially generated dataset that manipulates key features of NPI licensing for the experiments. We find that BERT has significant knowledge of these features, but its success varies widely across different experimental methods. We conclude that a variety of methods is necessary to reveal all relevant aspects of a model’s grammatical knowledge in a given domain.
 
