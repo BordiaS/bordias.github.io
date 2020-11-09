@@ -8,7 +8,7 @@ title: About me
 <h1 align="center">Shikha Bordia</h1>
 
 ### Professional Background
-I am working as NLP Research Engineer at Verisk Analytics on Summarization and Muti-hop reasoning in NLP . I completed Master's in Computer Science from [New York University’s](http://www.nyu.edu/) [Courant Institute of Mathmatical Sciences](https://cs.nyu.edu/home/index.html) in 2019. I was advised by Prof. Samuel R.Bowman. I was also part of [ML^2 Group](https://wp.nyu.edu/ml2/) at [CILVR Lab](https://wp.nyu.edu/cilvr/).  Broadly, my research interests are machine learning and natural language processing. 
+I am working as NLP Research Engineer at Verisk Analytics on Summarization, Muti-hop reasoning and Information Extraction in NLP . I completed Master's in Computer Science from [New York University’s](http://www.nyu.edu/) [Courant Institute of Mathmatical Sciences](https://cs.nyu.edu/home/index.html) in 2019. I was advised by Prof. Samuel R.Bowman. I was also part of [ML^2 Group](https://wp.nyu.edu/ml2/) at [CILVR Lab](https://wp.nyu.edu/cilvr/).  Broadly, my research interests are machine learning and natural language processing. 
 
 ### Publications/Projects
 #### Investigating BERT’s Knowledge of Language:Five Analysis Methods with NPIs [[paper](https://arxiv.org/pdf/1909.02597.pdf)]
