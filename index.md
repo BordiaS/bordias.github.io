@@ -14,32 +14,44 @@ I am working as NLP Research Engineer at Verisk Analytics on Muti-hop reasoning,
 
 #### HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification
 Yichen Jiang*, Shikha Bordia*, Zheng Zhong, Charles Dognin, Maneesh Singh, Mohit Bansal
+
 *Findings of EMNLP 2020*
+
 [[Paper](https://arxiv.org/abs/2011.03088)][[HoVer](https://hover-nlp.github.io/)]
 
 
 #### Investigating BERT’s Knowledge of Language:Five Analysis Methods with NPIs 
 Alex Warstadt*, Yu Cao${html`*`}, Ioana Grosu*, Wei Peng*, Hagen Blix*, Yining Nie*, Anna Alsop*, Shikha Bordia*, Haokun Liu*, Alicia Parrish*, Sheng-Fu Wang*, Jason Phang*, Anhad Mohananey*, Phu Mon Htut*, Paloma Jeretic* and Samuel R. Bowman.
+
 *Proceedings of EMNLP 2019*
+
 [[Paper](https://arxiv.org/pdf/1909.02597.pdf)]
 
 
 #### Identifying and Reducing Gender Bias in Word-Level Language Models 
 Shikha Bordia and Samuel R. Bowman
+
 *NAACL, Student Research Workshop, 2019*
+
 [[Paper](https://aclweb.org/anthology/papers/N/N19/N19-3002/)][[Slides](https://bordias.github.io/gender_bias_slides.pdf)][[Poster](https://bordias.github.io/poster.pdf)]
 
 #### On Measuring Social Biases in Sentence Encoders
 Chandler May, Alex Wang, Shikha Bordia, Samuel R. Bowman, Rachel Rudinger
+
 *NAACL 2019.
+
 [[paper](https://aclweb.org/anthology/papers/N/N19/N19-1063/)]
 
 #### Do Attention Heads in BERT Track Syntactic Dependencies?
+
 Phu Mon Htut*, Jason Phang*, Shikha Bordia*, and Samuel R. Bowman.
-*Natural Language, Dialog and Speech (NDS) Symposium, The New York Academy of Sciences. 2019. (Extended Abstract).*
+
+*Natural Language, Dialog and Speech (NDS) Symposium, The New York Academy of Sciences. 2019. (Extended Abstract)*
+
 [[paper](https://arxiv.org/abs/1911.12246)][[Poster](https://phumonhtut.me/publications/2019NDS/NDSposter.pdf)][[Blog]https://medium.com/@phu_pmh/do-attention-heads-in-bert-track-syntactic-dependencies-81c8a9be311a)]
 
 #### Contributed to [jiant](https://github.com/nyu-mll/jiant)
+
 jiant is a work-in-progress software toolkit for natural language processing research, designed to facilitate work on multitask learning and transfer learning for sentence understanding tasks.
 
 <!---
