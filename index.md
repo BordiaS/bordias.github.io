@@ -19,14 +19,14 @@ Yichen Jiang\*, **Shikha Bordia\***, Zheng Zhong, Charles Dognin, Maneesh Singh,
 
 
 
-***Investigating BERT’s Knowledge of Language:Five Analysis Methods with NPIs*** \
+***Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs*** \
 Alex Warstadt\*, Yu Cao\*, Ioana Grosu\*, Wei Peng\*, Hagen Blix\*, Yining Nie\*, Anna Alsop\*, **Shikha Bordia\***, Haokun Liu\*, Alicia Parrish\*, Sheng-Fu Wang\*, Jason Phang\*, Anhad Mohananey\*, Phu Mon Htut\*, Paloma Jeretic\* and Samuel R. Bowman. \
 *Proceedings of EMNLP 2019* \
 [[Paper](https://arxiv.org/pdf/1909.02597.pdf)]
 
 
 
-#### Identifying and Reducing Gender Bias in Word-Level Language Models 
+***Identifying and Reducing Gender Bias in Word-Level Language Models***
 **Shikha Bordia** and Samuel R. Bowman \
 *NAACL, Student Research Workshop, 2019* \
 [[Paper](https://aclweb.org/anthology/papers/N/N19/N19-3002/)][[Slides](https://bordias.github.io/gender_bias_slides.pdf)][[Poster](https://bordias.github.io/poster.pdf)]
