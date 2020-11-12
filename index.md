@@ -15,7 +15,7 @@ I am working as NLP Research Engineer at Verisk Analytics on Muti-hop reasoning,
 #### HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification
 Yichen Jiang\*, **Shikha Bordia\***, Zheng Zhong, Charles Dognin, Maneesh Singh, Mohit Bansal \
 *Findings of EMNLP 2020* \
-[[Paper](https://arxiv.org/abs/2011.03088)][[HoVer](https://hover-nlp.github.io/)]\
+[[Paper](https://arxiv.org/abs/2011.03088)][[HoVer](https://hover-nlp.github.io/)]
 
 
 #### Investigating BERT’s Knowledge of Language:Five Analysis Methods with NPIs 
@@ -40,7 +40,6 @@ Phu Mon Htut\*, Jason Phang\*, **Shikha Bordia\***, and Samuel R. Bowman. \
 [[paper](https://arxiv.org/abs/1911.12246)][[Poster](https://phumonhtut.me/publications/2019NDS/NDSposter.pdf)][[Blog](https://medium.com/@phu_pmh/do-attention-heads-in-bert-track-syntactic-dependencies-81c8a9be311a)]
 
 #### Contributed to [jiant](https://github.com/nyu-mll/jiant)
-
 jiant is a work-in-progress software toolkit for natural language processing research, designed to facilitate work on multitask learning and transfer learning for sentence understanding tasks.
 
 <!---
