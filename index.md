@@ -48,7 +48,7 @@ Phu Mon Htut*, Jason Phang*, Shikha Bordia*, and Samuel R. Bowman.
 
 *Natural Language, Dialog and Speech (NDS) Symposium, The New York Academy of Sciences. 2019. (Extended Abstract)*
 
-[[paper](https://arxiv.org/abs/1911.12246)][[Poster](https://phumonhtut.me/publications/2019NDS/NDSposter.pdf)][[Blog]https://medium.com/@phu_pmh/do-attention-heads-in-bert-track-syntactic-dependencies-81c8a9be311a)]
+[[paper](https://arxiv.org/abs/1911.12246)][[Poster](https://phumonhtut.me/publications/2019NDS/NDSposter.pdf)][[Blog](https://medium.com/@phu_pmh/do-attention-heads-in-bert-track-syntactic-dependencies-81c8a9be311a)]
 
 #### Contributed to [jiant](https://github.com/nyu-mll/jiant)
 
