@@ -12,7 +12,7 @@ I am working as NLP Research Engineer at Verisk Analytics on Muti-hop reasoning,
 
 ### Publications/Projects
 
-#### HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification
+***HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification***
 Yichen Jiang\*, **Shikha Bordia\***, Zheng Zhong, Charles Dognin, Maneesh Singh, Mohit Bansal \
 *Findings of EMNLP 2020* \
 [[Paper](https://arxiv.org/abs/2011.03088)][[HoVer](https://hover-nlp.github.io/)]
