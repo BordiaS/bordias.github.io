@@ -31,7 +31,7 @@ Alex Warstadt\*, Yu Cao\*, Ioana Grosu\*, Wei Peng\*, Hagen Blix\*, Yining Nie\*
 ***Identifying and Reducing Gender Bias in Word-Level Language Models*** \
 **Shikha Bordia** and Samuel R. Bowman \
 *NAACL, Student Research Workshop, 2019* \
-[[Paper](https://aclweb.org/anthology/papers/N/N19/N19-3002/)][[Slides](https://bordias.github.io/gender_bias_slides.pdf)][[Poster](https://bordias.github.io/poster.pdf)]
+[[Paper](https://aclweb.org/anthology/papers/N/N19/N19-3002/)][[Slides](https://bordias.github.io/gender_bias_slides.pdf)][[Poster](https://bordias.github.io/poster.pdf)][[Talk](https://vimeo.com/347400639)]
 
 
 
