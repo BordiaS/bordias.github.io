@@ -10,7 +10,7 @@ title: About me
 ### Professional Background
 I am working as NLP Research Engineer at Verisk Analytics on Muti-hop reasoning, Information Extraction and Natural Language Generation in NLP . I completed Master's in Computer Science from [New York University’s](http://www.nyu.edu/) [Courant Institute of Mathmatical Sciences](https://cs.nyu.edu/home/index.html) in 2019. I was advised by Prof. Samuel R.Bowman. I was also part of [ML^2 Group](https://wp.nyu.edu/ml2/) at [CILVR Lab](https://wp.nyu.edu/cilvr/).  Broadly, my research interests are machine learning and natural language processing. 
 
-Outside of NLP, I have experience as financial analyst where I used modeled Structured Finance products such as CBOs, CLOs, Synthetic Structures for over 3.5 years at Deutsche Bank after graduating from [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/). I was instrumental in [Industry Buying](https://www.industrybuying.com/)'s growth from 30 to over 300 employees and from series A to series B funding in a brief span of 9 months in year 2015. I have also  worked as data science consultant for multiple clients in Healthcare, Telecom and Retail Industry. 
+Outside of NLP, I modeled Structured Finance products such as CBOs, CLOs, Synthetic Structures for over 3.5 years at Deutsche Bank after graduating from [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/). I was instrumental in [Industry Buying](https://www.industrybuying.com/)'s growth from 30 to over 300 employees and from series A to series B funding in a brief span of 9 months in year 2015. I have also  worked as data science consultant for multiple clients in Healthcare, Telecom and Retail Industry in US. 
 
 ### Publications/Projects
 
