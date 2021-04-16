@@ -24,7 +24,7 @@ Yichen Jiang\*, **Shikha Bordia\***, Zheng Zhong, Charles Dognin, Maneesh Singh,
 ***Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs*** \
 Alex Warstadt\*, Yu Cao\*, Ioana Grosu\*, Wei Peng\*, Hagen Blix\*, Yining Nie\*, Anna Alsop\*, **Shikha Bordia\***, Haokun Liu\*, Alicia Parrish\*, Sheng-Fu Wang\*, Jason Phang\*, Anhad Mohananey\*, Phu Mon Htut\*, Paloma Jeretic\* and Samuel R. Bowman. \
 *Proceedings of EMNLP 2019* \
-[[Paper](https://arxiv.org/pdf/1909.02597.pdf)]
+[[Paper](https://arxiv.org/pdf/1909.02597.pdf)][[Slides](https://alexwarstadt.files.wordpress.com/2019/11/npis.pdf)][[Talk](https://vimeo.com/426357616)]
 
 
 
