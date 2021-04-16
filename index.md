@@ -38,7 +38,7 @@ Alex Warstadt\*, Yu Cao\*, Ioana Grosu\*, Wei Peng\*, Hagen Blix\*, Yining Nie\*
 ***On Measuring Social Biases in Sentence Encoders*** \
 Chandler May, Alex Wang, **Shikha Bordia**, Samuel R. Bowman, Rachel Rudinger \
 *NAACL 2019.* \
-[[Paper](https://aclweb.org/anthology/papers/N/N19/N19-1063/)]
+[[Paper](https://aclweb.org/anthology/papers/N/N19/N19-1063/)][[Talk](https://vimeo.com/347394290)]
 
 
 ***Do Attention Heads in BERT Track Syntactic Dependencies?*** \
