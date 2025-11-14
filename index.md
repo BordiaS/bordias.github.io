@@ -9,18 +9,19 @@ title: About me
 
 ### Professional Background
 
-I am a Machine Learning Engineer with extensive experience developing scalable NLP, information extraction, and generative AI systems for production. My work focuses on architecting high-performance pipelines for low-resource domains, designing evaluation frameworks, and driving reliability across end-to-end ML workflows. I hold multiple U.S. patents and have published in leading conferences, including NAACL, EMNLP, and SDP. My research in debiasing, summarization, and language model analysis has contributed to major responsible AI toolkits from Microsoft, Google, Stanford, and CVS Health.
+I am a Machine Learning Engineer with extensive experience developing scalable NLP, information extraction, and generative AI systems for production. My work focuses on architecting high-performance pipelines, designing evaluation frameworks, and driving reliability across end-to-end ML workflows. I hold multiple U.S. patents and have published in leading conferences, including NAACL, EMNLP, and SDP. My research in debiasing, summarization, and language model analysis has contributed to major responsible AI toolkits from Microsoft, Google, Stanford, and CVS Health.
 
-At Verisk Analytics, I lead projects in medical record understanding, legal concept search, and multi-hop fact retrieval, collaborating closely with clinical experts, product teams, and ML Ops to deliver systems that significantly reduce manual effort and improve decision quality. I previously earned my MS in Computer Science at NYU’s Courant Institute, working with the [ML^2 Group](https://wp.nyu.edu/ml2/) Lab on linguistic analysis and model interpretability.
+At Verisk Analytics, I have worked on Discovery Navigator, a leading medical record review platform that processes large volumes of clinical documents. My work spans medical record understanding, legal concept search, and multi-hop fact retrieval, collaborating closely with clinical experts, product teams, and ML Ops to build systems that significantly reduce manual effort and enhance decision quality. I previously earned my MS in Computer Science at NYU’s Courant Institute, working with the [ML^2 Group](https://wp.nyu.edu/ml2/) Lab on bias,linguistic analysis and model interpretability.
 
 Beyond my professional work, I am deeply passionate about yoga, dancing, and biking—practices that bring balance, energy, and creativity to my life. I am also a proud mom to a toddler whose curiosity and joy shape the way I approach learning, resilience, and the meaningful impact of my work.
 
 
 
 ### Publications/Projects
-***Bonafide at LegalLens 2024 Shared Task: Using Lightweight DeBERTa Based Encoder For Legal Violation Detection and Resolution***
-**Shikha Bordia\***
+***Bonafide at LegalLens 2024 Shared Task: Using Lightweight DeBERTa Based Encoder For Legal Violation Detection and Resolution*** \
+**Shikha Bordia\*** \
 [[Paper](https://arxiv.org/abs/2410.22977)]
+
 
 ***HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification*** \
 Yichen Jiang\*, **Shikha Bordia\***, Zheng Zhong, Charles Dognin, Maneesh Singh, Mohit Bansal \
@@ -59,11 +60,11 @@ Phu Mon Htut\*, Jason Phang\*, **Shikha Bordia\***, and Samuel R. Bowman. \
 jiant is a work-in-progress software toolkit for natural language processing research, designed to facilitate work on multitask learning and transfer learning for sentence understanding tasks.
 
 ### Patents
-**Machine learning systems and methods for interactive concept searching using attention scoring (US 11550782, 2023)**
+*Machine learning systems and methods for interactive concept searching using attention scoring (US 11550782, 2023)*
 
-**Machine learning systems and methods for many-hop fact extraction and claim verification (US 12406150, 2025)**
+*Machine learning systems and methods for many-hop fact extraction and claim verification (US 12406150, 2025)*
 
-**Systems and Methods for Machine Learning From Medical Records (Accepted)**
+*Systems and Methods for Machine Learning From Medical Records (Accepted)*
 
 <!---
 #### Improving pre-training and decoding in Machine Translation
