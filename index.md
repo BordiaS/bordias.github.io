@@ -8,11 +8,19 @@ title: About me
 <h1 align="center">Shikha Bordia</h1>
 
 ### Professional Background
-I am working as NLP Research Engineer at Verisk Analytics on Muti-hop reasoning, Information Extraction and Natural Language Generation in NLP . I completed Master's in Computer Science from [New York University’s](http://www.nyu.edu/) [Courant Institute of Mathmatical Sciences](https://cs.nyu.edu/home/index.html) in 2019. I was advised by Prof. Samuel R.Bowman. I was also part of [ML^2 Group](https://wp.nyu.edu/ml2/) at [CILVR Lab](https://wp.nyu.edu/cilvr/).  Broadly, my research interests are machine learning and natural language processing. 
 
-Outside of NLP, I modeled Structured Finance products such as CBOs, CLOs, Synthetic Structures for over 3.5 years at Deutsche Bank after graduating from [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/)(2007 - 2011). I was instrumental in [Industry Buying](https://www.industrybuying.com/)'s growth from 30 to over 300 employees and from series A to series B funding in a brief span of 9 months in year 2015. I have also  worked as data science consultant for multiple clients in Healthcare, Telecom and Retail Industry in US. 
+I am a Machine Learning Engineer with extensive experience developing scalable NLP, information extraction, and generative AI systems for production. My work focuses on architecting high-performance pipelines for low-resource domains, designing evaluation frameworks, and driving reliability across end-to-end ML workflows. I hold multiple U.S. patents and have published in leading conferences, including NAACL, EMNLP, and SDP. My research in debiasing, summarization, and language model analysis has contributed to major responsible AI toolkits from Microsoft, Google, Stanford, and CVS Health.
+
+At Verisk Analytics, I lead projects in medical record understanding, legal concept search, and multi-hop fact retrieval, collaborating closely with clinical experts, product teams, and ML Ops to deliver systems that significantly reduce manual effort and improve decision quality. I previously earned my MS in Computer Science at NYU’s Courant Institute, working with the [ML^2 Group](https://wp.nyu.edu/ml2/) Lab on linguistic analysis and model interpretability.
+
+Beyond my professional work, I am deeply passionate about yoga, dancing, and biking—practices that bring balance, energy, and creativity to my life. I am also a proud mom to a toddler whose curiosity and joy shape the way I approach learning, resilience, and the meaningful impact of my work.
+
+
 
 ### Publications/Projects
+***Bonafide at LegalLens 2024 Shared Task: Using Lightweight DeBERTa Based Encoder For Legal Violation Detection and Resolution***
+**Shikha Bordia\***
+[[Paper](https://arxiv.org/abs/2410.22977)]
 
 ***HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification*** \
 Yichen Jiang\*, **Shikha Bordia\***, Zheng Zhong, Charles Dognin, Maneesh Singh, Mohit Bansal \
@@ -49,6 +57,13 @@ Phu Mon Htut\*, Jason Phang\*, **Shikha Bordia\***, and Samuel R. Bowman. \
 
 ***Contributed to [jiant](https://github.com/nyu-mll/jiant)*** \
 jiant is a work-in-progress software toolkit for natural language processing research, designed to facilitate work on multitask learning and transfer learning for sentence understanding tasks.
+
+### Patents
+**Machine learning systems and methods for interactive concept searching using attention scoring (US 11550782, 2023)**
+
+**Machine learning systems and methods for many-hop fact extraction and claim verification (US 12406150, 2025)**
+
+**Systems and Methods for Machine Learning From Medical Records (Accepted)**
 
 <!---
 #### Improving pre-training and decoding in Machine Translation
